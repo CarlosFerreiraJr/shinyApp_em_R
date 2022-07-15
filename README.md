@@ -1,6 +1,6 @@
 # ShinyApp
 Utilização da Biblioteca shinyApp em na Linguagem R
-
+A biblioteca ShinyApp cria uma interface Web na linguagem R
 
 ### Bibliotecas
 ```
